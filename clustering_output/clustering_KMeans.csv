@@ -1,0 +1,6 @@
+	Business	Film	Football	Politics	Technology
+Cluster1	0.01	0.94	0.01	0.02	0.03
+Cluster2	0.84	0.01	0.03	0.09	0.03
+Cluster3	0.04	0.01	0.03	0.91	0.01
+Cluster4	0.00	0.00	1.00	0.00	0.00
+Cluster5	0.09	0.02	0.01	0.01	0.88
